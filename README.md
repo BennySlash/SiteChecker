@@ -8,4 +8,4 @@ To use:
 4. type "node filename.js" and watch the terminal for online status
 
 
-Note: eventually this will be integrated with a third-party to provide text or email notifications
+Note: eventually this will be integrated with a third-party to provide text or email notifications when a website changes online status
