@@ -1,4 +1,6 @@
-/* check if a website is working every one minute, if it is working, send a text message, if it isn't working, log "not online" to the console */
+/* This program checks if a website is online every 10 seconds. If the website is online, 
+this program logs "online" to the console; if it isn't online, it logs "not online" to the console */
+
 var XMLHttpRequest = require('xhr2');
 var checkOnline = function() {
   var xhr = new XMLHttpRequest();
